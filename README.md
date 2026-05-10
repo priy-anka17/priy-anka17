@@ -345,9 +345,32 @@ fun_fact: "I turn research papers into deployed apps"
 </tr>
 </table>
 
-<p align="center">
-  🔬 <b>Patent</b>: Cognitive Behavioural Therapy System for Emotional Health Management <code>(202441070994)</code>
+<details open>
+<summary><b>🔬 Patent — Indian Patent Office (Published)</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="80"><img src="https://img.shields.io/badge/🏛️_Patent-Published-success?style=for-the-badge" /></td>
+<td>
+<h4>Cognitive Behavioural Therapy System for Emotional Health Management</h4>
+<p>
+  <img src="https://img.shields.io/badge/Application_No.-202441070994-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Filed-19_Sep_2024-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Published-04_Oct_2024-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Awaiting_Examination-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Bio--Medical_Engineering-red?style=flat-square" />
 </p>
+<p>
+An AI-powered cognitive behavioural therapy system integrating <b>EEG brain signal analysis</b>, <b>facial recognition</b>, <b>NLP-based voice emotion detection</b>, and <b>real-time adaptive therapy</b> — personalized exercises dynamically adjust based on brainwave patterns, facial expressions, and vocal cues to manage stress, anxiety, and emotional health.
+</p>
+<p><b>Key innovations:</b> AI-driven real-time emotional state detection • EEG brainwave pattern analysis • Personalized therapy via stressor identification • Dynamic session adaptation using computer vision & NLP</p>
+<p><b>Applicant:</b> Jain (Deemed-to-be University) &nbsp;|&nbsp; <b>Inventor:</b> Priyanka Shah et al.</p>
+</td>
+</tr>
+</table>
+
+</details>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 
