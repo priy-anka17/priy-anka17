@@ -404,6 +404,10 @@ fun_fact: "I turn research papers into deployed apps"
   <a href="https://github.com/priy-anka17">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?user=FFjPQpsAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
 </p>
 
 <br>
